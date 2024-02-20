@@ -3,4 +3,6 @@ feijao
 carne
 leite
 frango
-ovos
+macarrao 
+peixe 
+suco
