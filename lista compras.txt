@@ -1,0 +1,6 @@
+arroz
+feijao
+carne
+leite
+frango
+ovos
